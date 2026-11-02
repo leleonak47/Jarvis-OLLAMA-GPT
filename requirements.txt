@@ -1,0 +1,11 @@
+ollama
+openai-whisper
+pyttsx3
+SpeechRecognition
+PyAudio==0.2.14
+requests
+python-dotenv
+torch
+torchaudio
+pywin32
+pyodbc
